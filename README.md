@@ -75,7 +75,7 @@ I'm a passionate **Full-Stack Developer** with expertise in architecting scalabl
 **Frontend Developer** | 08/2025 – 08/2026
 
 **Key Achievements:**
-- 🏆 **#1 Code Contributor** on team with 956+ UI commits and 401+ backend commits
+- 🏆 **#1 Code Contributor** on team with 3600+ Commits in the Last Year
 - Built scalable user interfaces from scratch using React.js & TypeScript with complex JSON-rendered interfaces
 - Architected end-to-end payment integration using Razorpay with dynamic premium pricing and webhook processing
 - Implemented advanced AI agents and Model Context Protocols (MCPs) for automated backend workflows
@@ -162,7 +162,7 @@ First repository - A learning project in web development fundamentals.
 I'm always open to collaborating on interesting projects and discussing ideas. Feel free to reach out:
 
 - **Email**: [pratikadsul.career@gmail.com](mailto:pratikadsul.career@gmail.com)
-- **LinkedIn**: [linkedin.com/in/adsulpratik2004](https://linkedin.com/in/adsulpratik2004)
+- **LinkedIn**: [linkedin.com/in/adsulpratik2004](https://www.linkedin.com/in/adsul-pratik-4976b2305/)
 - **Twitter/X**: [x.com/PratikAdsu77590](https://x.com/PratikAdsu77590)
 - **GitHub**: [github.com/AdsulPratik2004](https://github.com/AdsulPratik2004)
 - **Phone**: +91 8010833798
