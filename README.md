@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in architecting scalable platforms, integrating complex APIs, and implementing production-ready AI agent frameworks. High-velocity developer with proven track record of delivering impactful solutions.
+I'm a passionate **Full-Stack Developer** with expertise in architecting scalable platforms, integrating complex APIs, and implementing production-ready AI agent frameworks. High-velocity developer with a proven track record of shipping features at scale.
 
 - 🎯 **Specialization**: React, TypeScript, Python, Full-Stack Development, AI Agents & MCP
 - 💻 **Currently Working On**: Advanced AI agents, microservices, and scalable backend systems
@@ -50,20 +50,6 @@ I'm a passionate **Full-Stack Developer** with expertise in architecting scalabl
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-9C27B0?style=for-the-badge)
 ![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-FFD700?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdsulPratik2004&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsulPratik2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdsulPratik2004&theme=radical&hide_border=true&background=0D1117)](https://github.com/AdsulPratik2004)
 
 </div>
 
